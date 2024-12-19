@@ -46,7 +46,7 @@ Now you can use `llm` from anywhere!
 
 Basic usage:
 ```bash
-ca "your request in plain english"
+llm "your request in plain english"
 ```
 
 Options:
