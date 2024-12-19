@@ -11,13 +11,19 @@ Command Anything lets you create command-line commands using plain English. Inst
 
 ## Quick Start
 
-1. Save the script as `command-anything` in your preferred location
-2. Make it executable:
+1. Clone the repo in your preferred location
+
+2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+3. Make the script executable:
 ```bash
 chmod +x command-anything
 ```
 
-3. Set up an alias for easy access. Add this line to your shell config file:
+4. Set up an alias for easy access. Add this line to your shell config file:
 
 For Bash (`~/.bashrc` or `~/.bash_profile`):
 ```bash
